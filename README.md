@@ -34,6 +34,7 @@ var moduleLoader_example = func() error {
 - a desktop application (same reason as above)
 - a web server (just for api purposes)
 - a discord bot (same reason as above the web server)
+- a game launcher, which can launch games from Steam, Epic Games...
 
 ## Main game publisher platforms for this project
 - Steam
