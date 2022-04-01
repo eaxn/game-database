@@ -14,6 +14,8 @@
 - Own discord bot (for telling your buddies and you, which games are on discount, which games are currently free / or forever free)
 - Price compararison (to get the game for the cheapest price)
 - Game rating (for the same games on different platforms)
+- Provide help, for installing a hardware emulator
+- Let the user start any of his games with our own launcher
 
 ## Modules
 You can easily create modules, but how? You just create a module (go file / .go file) and drag it into the modules/ folder, then it will be used for the wanted build of the executable.
